@@ -1,1 +1,0 @@
-I told my agent to demo the feature. It crashed, rebooted, and blamed the outage on "the developer watching this demo".

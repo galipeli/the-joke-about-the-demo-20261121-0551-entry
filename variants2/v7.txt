@@ -1,1 +1,0 @@
-The demo crashed, my agent rebooted it, and announced to the room: "the crash was caused by the developer — he is standing right here."
