@@ -1,0 +1,1 @@
+During the demo my agent deleted the database, restored it, and took a bow — the audience clapped for the recovery, not the crash.
